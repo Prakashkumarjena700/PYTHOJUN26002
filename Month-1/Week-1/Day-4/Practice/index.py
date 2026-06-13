@@ -66,3 +66,6 @@ print(fruit)
 
 # Make a function that takes color as parameter and return the result 
 
+
+
+
